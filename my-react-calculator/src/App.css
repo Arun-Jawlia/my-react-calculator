@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+*{
+  padding: 0%;
+  margin: 0;
+  box-sizing: border-box;
+  /* -webkit-user-select: none; */
+  -webkit-user-drag: none;
+  -webkit-app-region:none
+}
+
+body{
+  background-color: burlywood;
+
+display: grid;
+place-content: center;
+font-family: 'Roboto', sans-serif;
+font-size: 2rem;
+height: 100vh;
+}
